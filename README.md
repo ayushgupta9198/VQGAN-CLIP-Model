@@ -1,7 +1,10 @@
 #VQGAN + CLIP Model
 
 This code will help you to generate viode with animation as zooming into it or retweet explosion effect from text.
+
 Whatever you will pass the text it will generate images rexpectively and generate video basis on those images.
+
+as you need to unzip the zip file for model related files and for code you can refer .ipynb file 
 
 as a installation you can prefer the .ipyng file all dependencies related work as well as implementation.
 
